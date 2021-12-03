@@ -1,0 +1,8 @@
+<keymap version="1" name="VSCode copy 1" parent="VSCode">
+  <action id="EditorStartNewLine" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+</keymap>
