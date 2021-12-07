@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '…/eltto/src/Services/AppraisalService/MS.AMC.Services.AppraisalService.Domain/Entities/OrderAggregate/PropertySeed.cs'" />
+    <option name="defaultScopeName" value="File '…/eltto/src/Services/AppraisalService/MS.AMC.Services.AppraisalService.Domain/Entities/OrderAggregate/PropertySeed.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…/eltto/src/Services/AppraisalService/MS.AMC.Services.AppraisalService.Domain/Entities/OrderAggregate/PropertySeed.cs'" />
   </component>
 </application>
