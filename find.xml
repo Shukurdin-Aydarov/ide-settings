@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="File '…/projects/eltto/src/app/modules/appraiser-profile/components/coverage-autocomplete/coverage-autocomplete.component.html'" />
+    <option name="defaultScopeName" value="File '…/projects/eltto/src/app/modules/appraiser-profile/components/coverage-autocomplete/coverage-autocomplete.component.html'" />
+    <option name="SEARCH_SCOPE" value="File '…/projects/eltto/src/app/modules/appraiser-profile/components/coverage-autocomplete/coverage-autocomplete.component.html'" />
   </component>
 </application>
